@@ -7,6 +7,7 @@ I'm Justin, a senior at the Massachusetts Institute of Technology studying Compu
 
 ![](https://komarev.com/ghpvc/?username=dismint&color=6096B4&style=flat)
 [![](https://img.shields.io/badge/Contact-93BFCF?style=flat&logoSize=auto)](mailto:mintjjc@gmail.com)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dismint&theme=dracula)
 
 </div>
 
