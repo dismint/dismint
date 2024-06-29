@@ -8,10 +8,14 @@ I'm Justin, a senior at the Massachusetts Institute of Technology studying Compu
 [![Email](https://img.shields.io/badge/EMAIL-93BFCF?style=for-the-badge&logoSize=auto)](mailto:mintjjc@gmail.com)
 </div>
 
+I like to do something and this and that and that 
+
 ## Tools 🧰
 
 ![Vim Badge](https://img.shields.io/badge/Vim-b9fbc0?style=flat-square&logo=Vim&logoColor=252525&logoSize=auto)
 ![Neovim Badge](https://img.shields.io/badge/Neovim-98f5e1?style=flat-square&logo=Neovim&logoColor=252525&logoSize=auto)
+![Typst Badge](https://img.shields.io/badge/Typst-8eecf5?style=flat-square&logo=Typst&logoColor=252525&logoSize=auto)
+![Arch Badge](https://img.shields.io/badge/Arch%20Linux-8eecf5?style=flat-square&logo=archlinux&logoColor=252525&logoSize=auto)
 ![Python Badge](https://img.shields.io/badge/Python-90dbf4?style=flat-square&logo=Python&logoColor=252525&logoSize=auto)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-a3c4f3?style=flat-square&logo=C%2B%2B&logoColor=252525&logoSize=auto)
 ![Java Badge](https://img.shields.io/badge/Java-ffcfd2?style=flat-square&logo=CoffeeScript&logoColor=252525&logoSize=auto)
