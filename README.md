@@ -8,9 +8,26 @@ I'm Justin, a senior at the Massachusetts Institute of Technology studying Compu
 [![Email](https://img.shields.io/badge/EMAIL-93BFCF?style=for-the-badge&logoSize=auto)](mailto:mintjjc@gmail.com)
 </div>
 
-## Tools
+## Tools 🧰
 
+![Vim Badge](https://img.shields.io/badge/Vim-b9fbc0?style=flat-square&logo=Vim&logoColor=252525&logoSize=auto)
+![Neovim Badge](https://img.shields.io/badge/Neovim-98f5e1?style=flat-square&logo=Neovim&logoColor=252525&logoSize=auto)
+![Python Badge](https://img.shields.io/badge/Python-90dbf4?style=flat-square&logo=Python&logoColor=252525&logoSize=auto)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-a3c4f3?style=flat-square&logo=C%2B%2B&logoColor=252525&logoSize=auto)
+![Java Badge](https://img.shields.io/badge/Java-ffcfd2?style=flat-square&logo=CoffeeScript&logoColor=252525&logoSize=auto)
+![Rust Badge](https://img.shields.io/badge/Java-fde4cf?style=flat-square&logo=Rust&logoColor=252525&logoSize=auto)
 
-![Vim Badge](https://img.shields.io/badge/Vim-62866c?style=flat-square&logo=Vim&logoSize=auto)
-![Python Badge](https://img.shields.io/badge/Python-a0c5e3?style=flat-square&logo=Python&logoSize=auto)
+<!---
+colors:
 
+fbf8cc: yellow
+fde4cf: orange
+ffcfd2: red
+f1c0e8: pink
+cfbaf0: purple
+a3c4f3: blue
+90dbf4: teal
+8eecf5: cyan
+98f5e1: mint
+b9fbc0: green
+-->
