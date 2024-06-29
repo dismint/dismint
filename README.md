@@ -8,9 +8,9 @@ I'm Justin, a senior at the Massachusetts Institute of Technology studying Compu
 [![Email](https://img.shields.io/badge/EMAIL-93BFCF?style=for-the-badge&logoSize=auto)](mailto:mintjjc@gmail.com)
 </div>
 
-I like to do something and this and that and that 
+I love making software and using cool tools that help me work better and faster. I'm a long-time Vim user and enthusiast (the best text editor in the world) and [BTW I use Arch](https://knowyourmeme.com/memes/btw-i-use-arch). Contact me if you want have any questions or want to hear me rant about something 📣
 
-## Tools 🧰
+---
 
 ![Vim Badge](https://img.shields.io/badge/Vim-b9fbc0?style=flat-square&logo=Vim&logoColor=252525&logoSize=auto)
 ![Neovim Badge](https://img.shields.io/badge/Neovim-98f5e1?style=flat-square&logo=Neovim&logoColor=252525&logoSize=auto)
