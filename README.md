@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=dismint&fontAlignY=43&desc=MIT%20|%20TJHSST%20|%20Citadel">
+  
+## Hi all 👋
+I'm Justin, a senior at the Massachusetts Institute of Technology
 </div>
-
-My name is Justin Choi, I'm currently a senior at the Massachusetts Institute of Technology
 
 
 <!--
