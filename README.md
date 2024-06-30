@@ -17,10 +17,10 @@ I love making software and using cool tools that help me work better and faster.
 <!---
 [![](https://github-readme-stats.vercel.app/api?username=dismint&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=dismint&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
--->
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dismint\&layout=donut&hide=typst&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dismint\&layout=donut&hide=typst&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+-->
 
 </div>
 
