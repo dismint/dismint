@@ -1,14 +1,25 @@
 <div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6096B4,100:BDCDD6&text=dismint&fontAlignY=30&desc=TJHSST%20|%20MIT&descAlignY=50&fontColor=252525">
 
 ## Hi, all ✌️
 
 I'm Justin, a senior at the Massachusetts Institute of Technology studying Computer Science
 
-[![Email](https://img.shields.io/badge/EMAIL-93BFCF?style=for-the-badge&logoSize=auto)](mailto:mintjjc@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-mintjjc%40gmail.com-93BFCF?style=flat&logoSize=auto&labelColor=EEE9DA)](mailto:mintjjc@gmail.com)
+
 </div>
 
 I love making software and using cool tools that help me work better and faster. I'm a long-time Vim enthusiast (the best text editor in the world) and [BTW I use Arch](https://knowyourmeme.com/memes/btw-i-use-arch). Contact me if you want have any questions or want to hear me rant about something 📣
+
+<div align="center">
+  
+![](https://raw.githubusercontent.com/dismint/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dismint/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/dismint/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dismint/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
 
 ---
 
