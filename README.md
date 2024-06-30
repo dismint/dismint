@@ -12,6 +12,14 @@ I'm Justin, a senior at the Massachusetts Institute of Technology studying Compu
 
 I love making software and using cool tools that help me work better and faster. I'm a long-time Vim enthusiast (the best text editor in the world) and [BTW I use Arch](https://knowyourmeme.com/memes/btw-i-use-arch). Contact me if you want have any questions or want to hear me rant about something 📣
 
+<div align="center" text-align="center" vertical-align="middle" display="table-cell">
+
+[![](https://github-readme-stats.vercel.app/api?username=dismint&show_icons=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=dismint&show_icons=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dismint\&layout=donut&hide=typst&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dismint\&layout=donut&hide=typst&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+</div>
 ---
 
 ![Vim Badge](https://img.shields.io/badge/Vim-b9fbc0?style=flat-square&logo=Vim&logoColor=252525&logoSize=auto)
