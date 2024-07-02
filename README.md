@@ -33,7 +33,7 @@ I love making software and using cool tools that help me work better and faster.
 ![Python Badge](https://img.shields.io/badge/Python-90dbf4?style=flat-square&logo=Python&logoColor=252525&logoSize=auto)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-a3c4f3?style=flat-square&logo=C%2B%2B&logoColor=252525&logoSize=auto)
 ![Java Badge](https://img.shields.io/badge/Java-ffcfd2?style=flat-square&logo=CoffeeScript&logoColor=252525&logoSize=auto)
-![Rust Badge](https://img.shields.io/badge/Java-fde4cf?style=flat-square&logo=Rust&logoColor=252525&logoSize=auto)
+![Rust Badge](https://img.shields.io/badge/Rust-fde4cf?style=flat-square&logo=Rust&logoColor=252525&logoSize=auto)
 
 <!---
 colors:
