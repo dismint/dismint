@@ -6,7 +6,7 @@
 
 I'm Justin, a senior at the Massachusetts Institute of Technology studying Computer Science
 
-[![Email](https://img.shields.io/badge/EMAIL-mintjjc%40gmail.com-93BFCF?style=flat&logoSize=auto&labelColor=EEE9DA)](mailto:mintjjc@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-dismint.dev-93BFCF?style=flat&logoSize=auto&labelColor=EEE9DA)](https://www.dismint.dev/)
 
 </div>
 
