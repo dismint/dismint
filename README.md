@@ -4,7 +4,7 @@
 
 ## Hi, all ✌️
 
-I'm Justin, a senior at the Massachusetts Institute of Technology studying Computer Science
+I'm Justin, a SWE @ Citadel, who formerly studied at the Massachusetts Institute of Technology.
 
 [![Website](https://img.shields.io/badge/WEBSITE-dismint.dev-93BFCF?style=flat&logoSize=auto&labelColor=EEE9DA)](https://www.dismint.dev/)
 
